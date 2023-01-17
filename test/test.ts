@@ -1,0 +1,1 @@
+let hello: String = "Hello World";
